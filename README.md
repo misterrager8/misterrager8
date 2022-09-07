@@ -23,5 +23,5 @@
 [musicAnalyzer](https://github.com/misterrager8/musicAnalyzer)
 *Blog / social media site centered around organizing your music collection, catching up with music news, and discovering new artists. Inspired by sites such as RateYourMusic, Genius, and lastFM.*
 
-[mintClone](https://github.com/misterrager8/mintClone)
-*Simple budget tracking and expenses site, modeled after Mint, hence the name*
+[CashJournal](https://github.com/misterrager8/CashJournal)
+*Simple budget tracking and expenses site, modeled after Mint*
