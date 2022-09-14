@@ -17,7 +17,7 @@
 [PassGen](https://github.com/misterrager8/PassGen)
 *Locally-hosted password manager app, powered by Python and Flask*
 
-[GitSome](https://github.com/misterrager8/Git-Some)
+[CodeGarden](https://github.com/misterrager8/CodeGarden)
 *Locally hosted Flask app built to manage GitHub projects and repositories without relying too much on command-line terminals. Inspired by the GitHub Desktop UI*
 
 [musicAnalyzer](https://github.com/misterrager8/musicAnalyzer)
